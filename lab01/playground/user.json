@@ -1,0 +1,24 @@
+{
+  "firstName": "Max",
+  "lastName": "Dor",
+  "languages": [
+    {
+      "title": "JS",
+      "Level": "Pro"
+    },
+    {
+      "title": "NodeJS",
+      "Level": "Pro"
+    }
+  ],
+  "Languages": [
+    {
+      "title": "French",
+      "level": "Beginner"
+    },
+    {
+      "title": "JavaScript",
+      "level": "Junior"
+    }
+  ]
+}
